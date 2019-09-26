@@ -38,20 +38,8 @@ INFO:
        - Strip Menu Drivers ('linked to CMD injection driver)
             
    - Folder Structure as coded in the script:
-   # Screen Shot data struct
+
   
-$ENV:USERPROFILE\Documents
-|
-|Printer_State.ps1
-|
-|Visual_Data
-|------------
-|	     |Image2.png
-|             |logo_Printer_State.ico
-|             |wallpaper.jpg
-|
-|
-|System_Data
-|-------------
+![Printer_State Screen_Shot_GUI](https://user-images.githubusercontent.com/18190054/65716605-c7eb0180-e09f-11e9-80ed-60bf8b3946e8.png)
 
 	     |Install_Printer.cmd
