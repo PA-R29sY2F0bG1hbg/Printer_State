@@ -39,7 +39,5 @@ INFO:
             
    - Folder Structure as coded in the script:
 
-  
-![Printer_State Screen_Shot_GUI](https://user-images.githubusercontent.com/18190054/65716605-c7eb0180-e09f-11e9-80ed-60bf8b3946e8.png)
+![Data_Structur](https://user-images.githubusercontent.com/18190054/65716927-64ad9f00-e0a0-11e9-9511-c6beb3d0d4b0.png)
 
-	     |Install_Printer.cmd
