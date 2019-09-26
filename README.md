@@ -1,6 +1,6 @@
 # Printer_State
 
-![GUI_SCREEN](https://user-images.githubusercontent.com/18190054/65717918-afc8b180-e0a2-11e9-841c-635cda2f3686.png)
+![GUI_SCREEN](https://user-images.githubusercontent.com/18190054/65719193-865d5500-e0a5-11e9-87c9-7be5c163adf4.png)
 
 
 
