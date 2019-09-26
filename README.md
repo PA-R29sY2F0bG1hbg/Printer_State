@@ -7,8 +7,6 @@
 Printer_State is a Powershell GUI which aims to Install or remove printer
 
 
-# IMAGE
-
 #|: | Author:  Philippe-Alexandre Munch                           
 #| :| Email:   --------------------------------                   
 #|: | Purpose: Post_Deploy :)  in GUI Version                     
