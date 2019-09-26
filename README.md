@@ -1,7 +1,7 @@
 # Printer_State
 
-![GUI_SCREEN](https://user-images.githubusercontent.com/18190054/65719193-865d5500-e0a5-11e9-87c9-7be5c163adf4.png)
 
+![GUI_SCREEN](https://user-images.githubusercontent.com/18190054/65719658-890c7a00-e0a6-11e9-97d6-31a57137400d.png)
 
 
 Printer_State is a Powershell GUI which aims to Install or remove printer
